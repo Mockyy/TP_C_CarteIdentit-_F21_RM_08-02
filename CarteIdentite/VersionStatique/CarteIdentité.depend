@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1549292355 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\main.c
+	"defineform.h"
+
+1549295436 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\carte.h
+
+1549295564 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\carte.c
+	"defineform.h"
+
+1549296555 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\fichier.c
+	"defineform.h"
+	<string.h>
+
+1549295883 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\fichier.h
+	"defineform.h"
+
+1549291250 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité\defineform.h
+	<stdio.h>
+	<stdlib.h>
+	"carte.h"
+	"fichier.h"
+
+1549295564 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\carte.c
+	"defineform.h"
+
+1549291250 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\defineform.h
+	<stdio.h>
+	<stdlib.h>
+	"carte.h"
+	"fichier.h"
+
+1549295436 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\carte.h
+
+1549295883 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\fichier.h
+	"defineform.h"
+
+1549297255 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\fichier.c
+	"defineform.h"
+	<string.h>
+
+1549292355 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\carteidentité_v1\main.c
+	"defineform.h"
+

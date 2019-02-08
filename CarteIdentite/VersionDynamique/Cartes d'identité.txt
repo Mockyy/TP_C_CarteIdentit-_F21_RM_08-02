@@ -1,0 +1,14 @@
+---CARTES D'IDENTITES---
+Carte d'identite 1
+Nom : m
+Prenom : m
+Adresse : m
+Code postal : m
+Ville : m
+
+Carte d'identite 2
+Nom : m
+Prenom : m
+Adresse : m
+Code postal : m
+Ville : m
